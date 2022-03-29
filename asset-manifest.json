@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ny/static/css/main.d1556446.css",
+    "main.css": "/ny/static/css/main.7f3b6d2b.css",
     "main.js": "/ny/static/js/main.258e0d88.js",
     "static/media/fa-solid-900.svg": "/ny/static/media/fa-solid-900.13de59f1a36b6cb4bca0.svg",
     "static/media/fa-brands-400.svg": "/ny/static/media/fa-brands-400.216edb96b562c79adc09.svg",
@@ -35,13 +35,13 @@
     "static/media/dockbit.svg": "/ny/static/media/dockbit.8ad41c15561c5c6847ddcfac0b17e08e.svg",
     "static/media/graph.svg": "/ny/static/media/graph.48edf09804057a86b4f587f28ca7833e.svg",
     "static/media/monero.svg": "/ny/static/media/monero.45ccc83cb5c9bd7f5f6794df23a2ea69.svg",
-    "static/media/dropbox.svg": "/ny/static/media/dropbox.e70e15aa09fa0038d11ea6f9d1db994a.svg",
     "index.html": "/ny/index.html",
-    "main.d1556446.css.map": "/ny/static/css/main.d1556446.css.map",
+    "static/media/dropbox.svg": "/ny/static/media/dropbox.e70e15aa09fa0038d11ea6f9d1db994a.svg",
+    "main.7f3b6d2b.css.map": "/ny/static/css/main.7f3b6d2b.css.map",
     "main.258e0d88.js.map": "/ny/static/js/main.258e0d88.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1556446.css",
+    "static/css/main.7f3b6d2b.css",
     "static/js/main.258e0d88.js"
   ]
 }
