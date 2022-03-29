@@ -11,11 +11,7 @@ const Pagefooter = () => {
             <h2 className="extra-bold text-dark mb-4">DashCore</h2>
             <p className="mt-2 mb-0 text-secondary small">
               © 2021{" "}
-              <Link
-                className="brand bold"
-                target="_blank"
-                to="/5studios.net"
-              >
+              <Link className="brand bold" target="_blank" to="/5studios.net">
                 5studios.net
               </Link>
               . All Rights Reserved

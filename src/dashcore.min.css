@@ -30902,3 +30902,64 @@ section.shadow {
 #root{
   overflow: hidden;
 }
+
+/* cursorchang ........................ */
+ 
+*{
+  cursor: none;
+}
+#cursor{
+  width: 20px;
+  height: 20px;
+  border: 2px solid black;
+  border-radius: 50%;
+  position: absolute;
+  z-index: 0.9;
+  transition-timing-function: ease-out;
+  animation: cursorAnim .8s infinite alternate;
+}
+#cursor::after{
+  content: "";
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  border: 8px solid #05d5ff;
+  border-radius: 50%;
+  opacity:0.6;
+  top: -1.7px;
+  left: -2.3px;
+  animation: cursorAnim2 .4s infinite alternate;
+}
+.expand{
+  animation: cursorAnim3 .5s forwards;
+  border: 1px solid blue;
+}
+
+@keyframes cursorAnim{
+  from{
+    transform: scale(1);
+  }
+  to{
+    transform: scale(.7);
+  }
+}
+@keyframes cursorAnim2{
+  from{
+    transform: scale(1);
+  }
+  to{
+    transform: scale(.4);
+  }
+}
+@keyframes cursorAnim3{
+  0%{
+    transform: scale(1);
+  }
+  50%{
+    transform: scale(3);
+  }
+100%{
+    transform: scale(1);
+    opacity: 0;
+  }
+}

@@ -29,25 +29,26 @@ const Contact = () => {
               <FontAwesomeIcon
                 icon="fas fa-dollar-sign"
                 className="stroke-darker"
-                style={{ width: "36", height: "36",color:"black" }}
+                style={{ width: "36", height: "36", color: "black" }}
               />
-             <Link
+              <Link
                 to="/javascript"
                 className="mt-4 text-darker d-flex align-items-center"
               >
                 <h4 className="me-3">Contact Sales</h4>
                 <FontAwesomeIcon icon="fas fa-long-arrow-alt-right" />
-         </Link>
+              </Link>
               <p className="mt-4">
                 Looking for a custom quote? need to tell us more about your
                 project? or want a demonstration? drop us a line to
-               <Link to="/mailto:support@5studios.net">sales@5studios.net
-               </Link>
+                <Link to="/mailto:support@5studios.net">
+                  sales@5studios.net
+                </Link>
               </p>
             </div>
             <div className="col-12 col-md-6 py-4 px-5">
               <LifeBuoy width="36" height="36" className="stroke-darker" />
-             <Link
+              <Link
                 to="/javascript"
                 className="mt-4 text-darker d-flex align-items-center"
               >
@@ -57,8 +58,7 @@ const Contact = () => {
               <p className="mt-4">
                 Any question about how to integrate your product?. Don't fret,
                 our geek team is ready for you at
-               <Link to="/anygmail">support@5studios.net
-         </Link>
+                <Link to="/anygmail">support@5studios.net</Link>
               </p>
             </div>
           </div>

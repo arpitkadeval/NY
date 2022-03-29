@@ -7,7 +7,9 @@ const Pageheader = () => {
         <div className="container pb-9">
           <div className="row">
             <div className="col-md-6">
-              <h1 className="bold display-md-4 text-contrast mb-4">Contact us</h1>
+              <h1 className="bold display-md-4 text-contrast mb-4">
+                Contact us
+              </h1>
               <p className="lead text-contrast">
                 Get in touch and let us know how we can help. Fill out the form
                 and we’ll be in touch as soon as possible.
