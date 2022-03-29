@@ -30920,6 +30920,8 @@ section.shadow {
 }
 #cursor::after{
   content: "";
+  /* content: ""; */
+
   width: 20px;
   height: 20px;
   position: absolute;
