@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ny/static/css/main.0905ee60.css",
-    "main.js": "/ny/static/js/main.5bc24a90.js",
+    "main.css": "/ny/static/css/main.a64b32b7.css",
+    "main.js": "/ny/static/js/main.ce9edd96.js",
     "static/media/fa-solid-900.svg": "/ny/static/media/fa-solid-900.13de59f1a36b6cb4bca0.svg",
     "static/media/fa-brands-400.svg": "/ny/static/media/fa-brands-400.216edb96b562c79adc09.svg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/ny/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -37,11 +37,11 @@
     "static/media/monero.svg": "/ny/static/media/monero.45ccc83cb5c9bd7f5f6794df23a2ea69.svg",
     "static/media/dropbox.svg": "/ny/static/media/dropbox.e70e15aa09fa0038d11ea6f9d1db994a.svg",
     "index.html": "/ny/index.html",
-    "main.0905ee60.css.map": "/ny/static/css/main.0905ee60.css.map",
-    "main.5bc24a90.js.map": "/ny/static/js/main.5bc24a90.js.map"
+    "main.a64b32b7.css.map": "/ny/static/css/main.a64b32b7.css.map",
+    "main.ce9edd96.js.map": "/ny/static/js/main.ce9edd96.js.map"
   },
   "entrypoints": [
-    "static/css/main.0905ee60.css",
-    "static/js/main.5bc24a90.js"
+    "static/css/main.a64b32b7.css",
+    "static/js/main.ce9edd96.js"
   ]
 }
