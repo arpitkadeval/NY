@@ -45,7 +45,7 @@ const Shop = () => {
           style={{ background: "#f1f4f8" }}
         >
           <h3 className="link-title">
-            <FontAwesomeIcon icon="fas fa-money-check-alt" className="icon" />{" "}
+            <FontAwesomeIcon icon="fas fa-money-check-alt" className="icon" />
             Checkout
           </h3>
           <div className="ms-5">
@@ -53,7 +53,7 @@ const Shop = () => {
               className="dropdown-item text-secondary"
               to="/shop/checkout-customer"
             >
-              Customer{" "}
+              Customer
               <FontAwesomeIcon icon="fas fa-angle-right" className="ms-2" />
             </Link>
             <Link
@@ -74,7 +74,7 @@ const Shop = () => {
               className="dropdown-item text-secondary"
               to="/shop/checkout-confirmation"
             >
-              Order Review{" "}
+              Order Review
               <FontAwesomeIcon icon="fas fa-angle-right" className="ms-2" />
             </Link>
           </div>

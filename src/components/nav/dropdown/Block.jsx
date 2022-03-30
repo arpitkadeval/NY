@@ -83,7 +83,7 @@ const Block = () => {
             <FontAwesomeIcon
               icon="fas fa-long-arrow-alt-right"
               className="icon"
-            />{" "}
+            />
             Coming soon
           </h3>
           <div className="ms-5">

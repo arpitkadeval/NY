@@ -98,7 +98,7 @@ const Pages = () => {
             <FontAwesomeIcon icon="fas fa-envelope" className=" icon" /> Contact
           </Link>
           <Link className="dropdown-item bold" to="/pricing">
-            <FontAwesomeIcon icon="fas fa-hand-holding-usd" className="icon" />{" "}
+            <FontAwesomeIcon icon="fas fa-hand-holding-usd" className="icon" />
             Pricing
           </Link>
         </div>
